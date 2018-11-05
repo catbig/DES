@@ -16,12 +16,12 @@ Not supported:
 long, double, char, String, float
 
 Not supported features:
-* No Threads
-* No dynamic loading
-* No Garbage Collector until version 2.2
-* No cloning
-* No multi-dimension arrays
-* Static array initialization not allowed.
+* Threads
+* Dynamic loading
+* Garbage Collector until version 2.2
+* Cloning
+* Multi-dimension arrays
+* Static array initialization.
 
 Project Information:
 1. Javacard Project build by Javacos (http://www.javacos.com)
