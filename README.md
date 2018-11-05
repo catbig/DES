@@ -7,7 +7,8 @@ This is my first time project using Java Card
 
 =====================================
 
-Java Card Information:
+Java Card Information
+
 Type support:
 boolean, byte, short
 int (optional)
