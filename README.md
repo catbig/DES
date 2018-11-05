@@ -7,15 +7,15 @@ This is my first time project using Java Card
 
 =====================================
 
-Information:
-Java Card only support:
+Java Card Information:
+Type support:
 boolean, byte, short
 int (optional)
 
-Not supported:
+Type not supported:
 long, double, char, String, float
 
-Not supported features:
+Features not supported:
 * Threads
 * Dynamic loading
 * Garbage Collector until version 2.2
