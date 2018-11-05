@@ -1,0 +1,10 @@
+<JavaCardProject name="DES">
+<USER>
+<PKG name="com.confident.crypto" aid="12 34 56 78 90 00" major="1" minor="0">
+<CLASS name="BitOperation"/>
+<CLASS name="DesOperation"/>
+<APPLET aid="12 34 56 78 90" instanceaid="" parameter="" authority="" privileges="" index="-23344" name="GlobalMembers"/>
+</PKG>
+<Libs/>
+</USER>
+</JavaCardProject>
